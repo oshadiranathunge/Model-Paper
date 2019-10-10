@@ -3,4 +3,8 @@
     <string name="courseApp">The course App</string>
     <string name="userName">User Name</string>
     <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="teacher">Teacher</string>
+    <string name="student">Student</string>
 </resources>

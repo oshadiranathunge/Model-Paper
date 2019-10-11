@@ -8,4 +8,10 @@
     <string name="teacher">Teacher</string>
     <string name="student">Student</string>
     <string name="registera">Register App</string>
+    <string name="teacherwelcome">Welocome User Name</string>
+    <string name="subject">Subject</string>
+    <string name="teachMSG">Message</string>
+    <string name="tchsend">Send</string>
+    <string name="item1">Item 1</string>
+    <string name="subitem1">Sub item 1</string>
 </resources>

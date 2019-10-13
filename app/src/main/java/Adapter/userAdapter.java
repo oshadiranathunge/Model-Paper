@@ -10,5 +10,6 @@ public class userAdapter {
     }
 
     private class AddUser {
+        
     }
 }
